@@ -8,5 +8,5 @@ those steps:
 - `virtualenv ~/envs/mypy1 --python=python3.7`
 - `source ~/envs/mypy1/bin/activate`
 - `(mypy1) pip install -r requirements.txt`
-- `(mypy1) jupyter nbconvert --to slides --serve post
+- `(mypy1) jupyter nbconvert PyDays_Typing.ipynb --to slides --post serve
 
