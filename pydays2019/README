@@ -5,8 +5,10 @@ If you want to run the notebook locally, follow
 those steps:
 
 - Open your terminal of choice
-- ```virtualenv ~/envs/mypy1 --python=python3.7```
-- ```source ~/envs/mypy1/bin/activate```
-- ```(mypy1) pip install -r requirements.txt```
-- ```(mypy1) jupyter nbconvert PyDays_Typing.ipynb --to slides --post serve```
+- virtualenv ~/envs/mypy1 --python=python3.7
+-source ~/envs/mypy1/bin/activate
+- (mypy1) pip install -r requirements.txt
+- (mypy1) jupyter nbconvert PyDays_Typing.ipynb --to slides --post serve
+
+If you have problems - do not doubt to contact me.
 
