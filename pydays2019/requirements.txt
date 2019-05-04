@@ -1,0 +1,4 @@
+mypy
+jupyter
+notebook
+typing_extensions
